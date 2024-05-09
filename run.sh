@@ -8,6 +8,6 @@ sleep 1
 echo '3 seconds'
 sleep 1
 echo '4 seconds'
-sleep 1
-echo '5 seconds'
+sleep 2
+echo '6 seconds'
 echo 'this build has completed!!'
